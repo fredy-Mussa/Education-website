@@ -1,4 +1,4 @@
-# Masomo Website
+# Education Website
 
 This is a simple educational website built using HTML and CSS. It provides access to learning materials, notes, and resources for students.
 
